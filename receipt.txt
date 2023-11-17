@@ -1,0 +1,16 @@
+Order Receipt
+Date: 2023-11-17
+Items:
+- Chicken | Price: 5.0
+- Packet | Price: 3.0
+- Apple | Price: 2.5
+- Packet | Price: 3.0
+- Orange | Price: 3.0
+- Beef | Price: 77.0
+- Chicken | Price: 5.0
+- Packet | Price: 3.0
+- Apple | Price: 2.5
+- Packet | Price: 3.0
+- Orange | Price: 3.0
+- Beef | Price: 77.0
+Don't forget to keep the goods Chicken, Beef in the refrigerator

@@ -1,0 +1,7 @@
+Packet, packet, 3.0
+Apple, fruits, 2.5
+Orange, fruits, 3.0
+Chicken, meat, 5.0
+Beef, meat, 77.0
+Tomato, vegetables, 1.5
+Potato, vegetables, 2.0
